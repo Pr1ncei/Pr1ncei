@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Pamintuan
 ========================================================================================================================================
 
-Software Developer
+Software Engineer
 ------------------
 
 I've been learning to code for 2 years now, and I started with Python. However, during my first year of learning programming, I've experienced challenges that hinders my progress. As a result, I've been inconsistent with learning programming. Now, I'm continuously building my skills, exploring new technologies, and working on projects to strengthen my coding foundation. I'm passionate about learning and growing as a developer, and I'm always open to collaborating on exciting projects.
